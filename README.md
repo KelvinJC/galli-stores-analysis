@@ -7,4 +7,4 @@
 
 
 
-###### Synthetic data sourced from [Keith Galli's Github account](https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data)
+###### Data sourced from [Keith Galli's Github account](https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data)
