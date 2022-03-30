@@ -15,6 +15,16 @@ Galli Stores is a retail chain operating in several cities across the US. They r
 
 
 
+### Tools:
+* Python
+* Jupyter Notebook
+
+### Libraries:
+* Pandas
+* Numpy
+* Matplotlib
+
+
 
 
 
