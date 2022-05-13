@@ -1,6 +1,6 @@
 # Galli Stores Sales Analysis
 
-## A report of the descriptive analysis performed on sales data of Galli Stores. The data spanned the course of a 12 period.
+## A report of the descriptive analysis performed on sales data of Galli Stores. The data spanned the course of a 12 month period.
 <br>
 
 Galli Stores is a retail chain operating in several cities across the US. They require a sales analysis of their figures covering a the past year. The management wants to know the answers to questions such as:
